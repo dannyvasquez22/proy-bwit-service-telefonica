@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: proy-bwit-service-telefonica
+
+
+
+
+server:
+  port: 7001
+
